@@ -79,7 +79,7 @@ ghci>
 [^人月]: １人が１ヶ月働いた際の仕事量は１人月。１人が２ヶ月働いた場合も２人が１ヶ月働いた場合も同様に２人月の計算となり、これが混乱の原因である。
 [^神話]: 人数と期間が交換可能であることが常識とされていた背景については、仕様書通りにプログラムを起こすプログラマの仕事は単純労働であり、またどのプログラマの生産性も一定である、という考え方がこれよりも前の時代にあったのかも知れない。
 [^人月の神話]: https://www.maruzen-publishing.co.jp/item/?book_no=294733
-[^IPA]: https://www.ipa.go.jp/files/000005269.pdf
+[^IPA]: オリジナル: https://www.ipa.go.jp/files/000005269.pdf はリンク切れ、WebArchive: http://web.archive.org/web/20181224013343/https://www.ipa.go.jp/files/000005269.pdf を参照のこと。
 [^JUAS2020]: https://juas.or.jp/cms/media/2020/05/20swm_pr.pdf
 [^@IT]: https://atmarkit.itmedia.co.jp/news/200707/05/juas.html
 [^JUAS2018]: http://www.juas.or.jp/cms/media/2018/05/swm18_kh_ppt.pdf
